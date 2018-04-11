@@ -1,4 +1,4 @@
 g=int(raw_input())
-k=int(raw_input())
-sum=(k*(k+1)/2)
+h=int(raw_input())
+sum=(h*(h+1)/2)
 print(sum)

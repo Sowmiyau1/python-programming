@@ -1,4 +1,4 @@
-num=int(raw_input())
-sup=int(raw_input())
-power=(num**sup)
-print(power)
+N=int(raw_input())
+K=int(raw_input())
+L=N**K
+print(L)

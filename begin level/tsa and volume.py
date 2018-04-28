@@ -1,0 +1,7 @@
+L=int(raw_input())
+B=int(raw_input())
+H=int(raw_input())
+TSA= (2*((L*B)+(L*H)+(H*B)))
+print (TSA)
+volume= (L*B*H)
+print (volume)
